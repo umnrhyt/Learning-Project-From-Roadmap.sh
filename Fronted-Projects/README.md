@@ -8,7 +8,7 @@ Frontend Projects Built Following From Roadmap.sh [Frontend Path](https://roadma
 
 ###
 
-- [Single Page CV](https://roadmap.sh/projects/single-page-cv) √
+- [x] [Single Page CV](https://roadmap.sh/projects/single-page-cv) 
 - [Basic HTML Website]() 
 - [Personal Portfolio]() 
 - [Changelog Component]() 
